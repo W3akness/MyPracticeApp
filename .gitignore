@@ -47,3 +47,9 @@ Temporary Items
 .apdisk
 .idea
 node_modules
+src
+tools
+.babelrc
+.eslintrc
+webpack.config.dev.js
+webpack.config.prod.js
